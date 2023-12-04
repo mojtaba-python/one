@@ -6,3 +6,9 @@ git config --list
 
 git init
 ------------------------------------------
+
+git status
+
+git add .
+
+git commit -m "add a.txt"
