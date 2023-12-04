@@ -12,3 +12,6 @@ git status
 git add .
 
 git commit -m "add a.txt"
+
+git log 
+git log --oneline
