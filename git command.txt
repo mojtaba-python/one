@@ -15,3 +15,5 @@ git commit -m "add a.txt"
 
 git log 
 git log --oneline
+------------------------
+git push git@github.com:mojtaba-python/one.git master
