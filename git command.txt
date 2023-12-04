@@ -1,0 +1,8 @@
+git config --global user.name "moji"
+
+git config --global user.email "mojtaba.klaie@gmail.com"
+
+git config --list
+
+git init
+------------------------------------------
